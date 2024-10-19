@@ -16,6 +16,8 @@ public class Main {
 
             System.out.println("Min ma cadsfhit tak ngar" +
                     );
+
+            System.out.println("Yin kyo pi" +);
         }
     }
 }
