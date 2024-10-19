@@ -14,7 +14,7 @@ public class Main {
 
 
 
-            System.out.println("Min ma chit tak ngar" +
+            System.out.println("Min ma cadsfhit tak ngar" +
                     );
         }
     }
